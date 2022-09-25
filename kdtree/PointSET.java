@@ -87,17 +87,6 @@ public class PointSET {
     }
 
     public static void main(String[] args) {
-        PointSET ps = new PointSET();
-        ps.insert(new Point2D(0, 0));
-        ps.insert(new Point2D(0.1, 0.1));
-        ps.insert(new Point2D(0.2, 0.2));
-        ps.insert(new Point2D(0.3, 0.3));
-        ps.insert(new Point2D(0.5, 0.5));
-
-
-        StdOut.println(ps.range(new RectHV(0, 0, 4, 5)));
-        StdDraw.setPenColor(StdDraw.BLACK);
-        StdDraw.setPenRadius(0.02);
-        ps.draw();
+        
     }
 }

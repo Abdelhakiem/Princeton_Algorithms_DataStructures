@@ -15,3 +15,6 @@ https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php
 
 ## 4- 8Puzzle:
 https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
+
+## 5- Kd-Tree:
+https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
